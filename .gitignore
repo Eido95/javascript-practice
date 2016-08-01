@@ -1,2 +1,3 @@
 *.git/
 *.imdone/
+node_modules/
