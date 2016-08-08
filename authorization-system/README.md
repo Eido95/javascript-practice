@@ -20,8 +20,19 @@ Technology |   | Specifications  |
 [AngularJS](https://angularjs.org)  | Web-Application Framework | Single-Page Application
 [npm](https://www.npmjs.com)        | Package Manager           | Default package manager for Node.js
 [Node.js](https://nodejs.org/en/)   | Runtime Environment       | Chrome's V8 JavaScript Engine
-
-Structure | Folders-by-Feature (Combination of AngularJS, Bootstrap and HTML5 Boilerplate structure)
+[jQuery](http://jquery.com/)        | Library                   | Scripting Simplifier
+<table>
+  <tbody>
+    <tr>
+      <td>**Structure**</td>
+      <td>*Folders-by-Feature* ([LIFT Principle](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md#style-y140), combination of AngularJS, Bootstrap and HTML5 Boilerplate application structure)</td>
+    </tr>
+    <tr>
+      <td>Key 2</td>
+      <td>Value 2</td>a
+    </tr>
+  </tbody>
+</table>
 
 ### References
 <dl>
@@ -29,4 +40,6 @@ Structure | Folders-by-Feature (Combination of AngularJS, Bootstrap and HTML5 Bo
   <dd>https://google.github.io/styleguide/angularjs-google-style.html</dd>
   <dt>HTML5 Boilerplate</dt>
   <dd>https://html5boilerplate.com/</dd>
+  <dt>Your Agile, Free and Open Source Project Management Tool</dt>
+  <dd>https://tree.taiga.io/project/eido95-cross-platform-user-management-system/</dd>
 </dl>

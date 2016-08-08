@@ -16,5 +16,10 @@
     "url": "https://github.com/Eido95/javascript-practice/issues"
   },
   "homepage": "https://github.com/Eido95/javascript-practice#readme",
-  "dependencies": {}
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.0",
+    "jsdom": "^9.4.1"
+  }
 }
