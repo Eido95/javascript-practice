@@ -1,6 +1,9 @@
 
 [2016-08-08 #### Create Homepage according to Bootstrap template with support for choosing backend platforms.](#DOING:)
+
 [2016-08-08 Supprot Clibri and Georgia fonts](#TODO:1)
+
+[2016-08-08 Read jQuery readme file before usage.](#TODO:2)
 
 [x 2016-01-08 2016-01-08 create TODOs file.](#DONE:)
 
