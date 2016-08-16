@@ -1,7 +1,11 @@
 
 [2016-08-08 #### Create Homepage according to Bootstrap template with support for choosing backend platforms.](#DOING:)
 
+<<<<<<< HEAD
 [2016-08-08 Supprot Clibri and Georgia fonts](#TODO:1)
+=======
+[2016-08-08 Supprot Clibri, Georgia and Bookerly fonts](#TODO:1)
+>>>>>>> 0d69578f28418fdeeaea1881addee3a8b2601ea9
 
 [2016-08-08 Read jQuery readme file before usage.](#TODO:2)
 
