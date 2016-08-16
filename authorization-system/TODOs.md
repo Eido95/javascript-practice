@@ -1,6 +1,7 @@
 
 [2016-08-08 #### Create Homepage according to Bootstrap template with support for choosing backend platforms.](#DOING:)
-[2016-08-08 Supprot Clibri and Georgia fonts](#TODO:1)
+
+[2016-08-08 Supprot Clibri, Georgia and Bookerly fonts](#TODO:1)
 
 [x 2016-01-08 2016-01-08 create TODOs file.](#DONE:)
 
