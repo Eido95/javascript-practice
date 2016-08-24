@@ -1,5 +1,7 @@
 
-[2016-08-08 #### Create Homepage according to Bootstrap template with support for choosing backend platforms.](#DOING:)
+[2016-08-17 #### Verify whether you can insert `home.view.html` inside `index.html` as your homepage.](#DOING:)
+
+[2016-08-08 #### Create Homepage according to Bootstrap template with support for choosing backend platforms.](#TODO:1)
 
 [2016-08-08 Supprot Clibri, Georgia and Bookerly fonts](#TODO:1)
 

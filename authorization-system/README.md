@@ -22,8 +22,8 @@ Technology |   | Specifications  |
 [Node.js](https://nodejs.org/en/)   | Runtime Environment       | Chrome's V8 JavaScript Engine
 [jQuery](http://jquery.com/)        | JavaScript Library                   | Scripting Simplifier
 
-   |   |   |
----|---|---|
+   |   |
+---|---|
 **Structure**  | *Folders-by-Feature* ([LIFT Principle](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md#style-y140), combination of AngularJS, Bootstrap and HTML5 Boilerplate application structure)
 
 ### References
