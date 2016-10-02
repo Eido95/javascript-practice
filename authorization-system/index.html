@@ -1,14 +1,23 @@
 <!doctype html>
-<html lang="en" ng-app>
+<html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>My HTML File</title>
-    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css" />
-    <script src="node_modules/angular/angular.js"></script>
+    <title>Autorization System</title>
+    <link rel="stylesheet" type="text/css" href="assets/css/styles.css">
+    <link rel="alternate stylesheet" type="text/css" title="Light" href="assets/css/index/light.css">
+    <link rel="alternate stylesheet" type="text/css" title="Dark" href="assets/css/index/dark.css">
   </head>
   <body>
-
-    <p>Nothing here {{'yet' + '!'}}</p>
-
+    <div>
+      <!-- We use classes here instead of ids because maybe in the future with support for multilanguage, the styles for the different webpages will remain the same. -->
+      <div class="index-header-div">
+        <div>
+          <h1 class="index-header-div__header">Autorization System</h1>
+        </div>
+      </div>
+      <div class="index-footer-div">
+        <!-- TODO: https://ghbtns.com/ -->
+      </div>
+    </div>
   </body>
 </html>

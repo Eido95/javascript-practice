@@ -25,6 +25,7 @@ Technology |   | Specifications  |
    |   |
 ---|---|
 **Structure**  | *Folders-by-Feature* ([LIFT Principle](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md#style-y140), combination of AngularJS, Bootstrap and HTML5 Boilerplate application structure)
+**CSS Naming** | *Block Element Modifier (BEM)* ([Naming Article](http://getbem.com/naming/), [CSS Guidelines](http://cssguidelin.es/#bem-like-naming))
 
 ### References
 <dl>
@@ -34,4 +35,6 @@ Technology |   | Specifications  |
   <dd>https://html5boilerplate.com/</dd>
   <dt>Your Agile, Free and Open Source Project Management Tool</dt>
   <dd>https://tree.taiga.io/project/eido95-cross-platform-user-management-system/</dd>
+  <dt>Trello is the easy, free, flexible, and visual way to manage your projects and organize anything.</dt>
+  <dd>https://trello.com/b/68gzDGNW</dd>
 </dl>
