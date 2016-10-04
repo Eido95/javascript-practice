@@ -1,7 +1,8 @@
 
-[2016-10-02 ###### Continue support multitheme fore the "native" html site (https://www.w3.org/wiki/Dynamic_style_-_manipulating_CSS_with_JavaScript, http://stackoverflow.com/questions/19844545/replacing-css-file-on-the-fly-and-apply-the-new-style-to-the-page, https://developer.mozilla.org/en-US/docs/Web/CSS/Alternative_style_sheets)](#DOING:)
+[2016-10-02 ###### Continue support multitheme fore the "native" html site (https://www.w3.org/wiki/Dynamic_style_-_manipulating_CSS_with_JavaScript, http://stackoverflow.com/questions/19844545/replacing-css-file-on-the-fly-and-apply-the-new-style-to-the-page, https://developer.mozilla.org/en-US/docs/Web/CSS/Alternative_style_sheets)](#DONE:)
 
-[2016-10-02 #### Create native .html .css .js homepage to choose between frontends. This page will support multilanguage, multitheme.](#TODO:94)
+
+[2016-10-02 #### Create native .html .css .js homepage to choose between frontends. This page will support multilanguage, multitheme.](#DOING:)
 
 [2016-08-17 #### Verify whether you can insert `home.view.html` inside `index.html` as your homepage.](#TODO:95)
 

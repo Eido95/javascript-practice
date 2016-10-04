@@ -3,17 +3,26 @@
   <head>
     <meta charset="utf-8">
     <title>Autorization System</title>
-    <link rel="stylesheet" type="text/css" href="assets/css/styles.css">
+    <link rel="stylesheet" type="text/css" title="Default Theme" href="assets/css/styles.css">
     <link rel="alternate stylesheet" type="text/css" title="Light" href="assets/css/index/light.css">
     <link rel="alternate stylesheet" type="text/css" title="Dark" href="assets/css/index/dark.css">
+    <script type="text/javascript" src="node_modules/jquery/dist/jquery.js"></script>
+    <script type="text/javascript" src="assets/js/index/index.js"></script>
   </head>
   <body>
-    <div>
+    <div class="body-div">
       <!-- We use classes here instead of ids because maybe in the future with support for multilanguage, the styles for the different webpages will remain the same. -->
       <div class="index-header-div">
+        <div class="index-header-div__theme-picker">
+          <button class="theme-picker--button" type="button" onclick="changeTheme(index.themeEnum.Light)">Light</button>
+          <button class="theme-picker--button" type="button" onclick="changeTheme(index.themeEnum.Dark)">Dark</button>
+        </div>
         <div>
           <h1 class="index-header-div__header">Autorization System</h1>
         </div>
+      </div>
+      <div class="index-content-div">
+        <p>Welcome to Authorization System!</p>
       </div>
       <div class="index-footer-div">
         <!-- TODO: https://ghbtns.com/ -->
