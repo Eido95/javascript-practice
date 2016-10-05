@@ -1,43 +1,11 @@
-html, body {
-  /* How do I force a DIV block to extend to the bottom of a page even if it has no content? */
-  height: 100%;
-}
-
 p {
   color: #000000;
 }
 
 .body-div {
   background-color: #f9f9f9;
-  margin: auto;
-  width: 80%;
-  height: 100%;
-}
-.index-header-div {
-  /* center margin */
-  margin: auto;
-  /* border: 3px solid blue; */
-  /*
-  Make div not larger than its contents.
-  display: inline-block; doesn't work with margin: auto;
-  */
-  display: table;
 }
 
 .index-header-div__header {
-  text-decoration: underline;
   color: #000000;
-}
-
-.index-header-div__theme-picker {
-  margin: auto;
-  display: table;
-}
-
-.theme-picker--button {
-  margin: 1px 2px;
-}
-
-.index-content-div {
-  margin: auto;
 }

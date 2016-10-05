@@ -21,6 +21,9 @@
             console.log( "Adding " + $.trim(item) );
         }
     } */
+    /**
+     * Current page themes collection.
+     */
     var themeEnum;
 }( window.index = window.index || {}, jQuery ));
 
@@ -30,6 +33,11 @@ window.onload = function() {
 
 function initialize() {
   intitializeConstants();
+  initializeTheme(index.themeEnum.Light);
+}
+
+function initializeTheme(defaultTheme) {
+  changeTheme(defaultTheme);
 }
 
 function intitializeConstants() {
@@ -39,9 +47,13 @@ function intitializeConstants() {
   }
   Object.freeze(index.themeEnum);
 }
-
+/**
+ * Changes current page theme.
+ * @param  {index.themeEnum} theme New theme.
+ * @return {undefined}
+ */
 function changeTheme(theme) {
-  var link = document.querySelector('link[title="Default Theme"]');
+  var link = document.querySelector('.index-current-theme');
   var themePath = "assets/css/index/"
   switch(theme) {
     case index.themeEnum.Light:

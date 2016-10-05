@@ -1,0 +1,46 @@
+html, body {
+  /* How do I force a DIV block to extend to the bottom of a page even if it has no content? */
+  height: 100%;
+}
+
+.body-div {
+  margin: auto;
+  width: 80%;
+  height: 100%;
+}
+
+.index-header-div {
+  /* center margin */
+  margin: auto;
+  /* border: 3px solid blue; */
+  /*
+  Make div not larger than its contents.
+  display: inline-block; doesn't work with margin: auto;
+  */
+  display: table;
+}
+.index-header-div--hr {
+  /* Is there are way to make a child DIV's width wider than the parent DIV using CSS */
+  width: 75vw;
+}
+
+.index-header-div__header {
+  margin: auto;
+  display: table;
+  text-decoration: underline;
+  font-family: Georgia, serif;
+}
+
+.index-header-div__theme-picker {
+  margin: auto;
+  display: table;
+}
+
+.theme-picker--button {
+  margin: 1px 2px;
+}
+
+.index-content-div {
+  margin: auto;
+  padding: 0px 20px;
+}
